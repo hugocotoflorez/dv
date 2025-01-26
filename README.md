@@ -29,6 +29,10 @@ environment variable.
 
 ### Documentation (Quick Reference)
 
+It uses [posix regex (BRE)](https://en.wikibooks.org/wiki/Regular_Expressions/POSIX_Basic_Regular_Expressions).
+You can change to Extended Regular Expression by
+modifying the source code.
+
 #### SRCH
 `PATTERN`
 Highlights files or directories matching the specified
