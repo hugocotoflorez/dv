@@ -3,6 +3,8 @@
 ### About
 Visual directory management tool.
 
+![image](./image.png)
+
 ### Installation
 
 Clone the repository and compile the source code:

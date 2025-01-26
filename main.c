@@ -296,7 +296,7 @@ input_loop(const char *path)
                         }
                         else if (!strcmp(buf, "rm") || !strcmp(buf, "RM"))
                         {
-                                filter(dir_da, sep + 1, rm, cflags, eflags, 1);
+                                filter(dir_da, sep + 1, rm, cflags, eflags, 0);
                                 refresh();
                         }
                         else
