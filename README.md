@@ -48,3 +48,12 @@ Deletes all files or directories matching the pattern.
 #### PROT
 `PROT/PATTERN/MODE`
 Changes the permissions of files matching the pattern to the specified mode (octal value as in `chmod`).
+
+#### CLEAR
+`CLEAR` clear the screen.
+
+#### ENTER
+`<CR>` Show all entries in current directory.
+
+>[!NOTE]
+> All upercase commands can be written in lowercase
